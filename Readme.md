@@ -39,7 +39,7 @@ Solved Problems:<br>
 </p>
 <br>
 <p>
-Day3:
+Day3:<br>
 Solved Problems:<br>
 1.Check first element who repeat in array<br>
 2.Second smallest element from an array<br>
@@ -52,4 +52,19 @@ Solved Problems:<br>
 9.Find an array in non-decreasing order<br>
 10.Prefix Sum Concept implement<br>
 11.Find left to right position sum using prefix sum concepet<br>
+</p>
+<br>
+<p>
+Day4:<br>
+Solved Problems:<br>
+1.prefix and suffix concept<br>
+2.Suffix sum array<br>
+3.Array is Sorted or not 
+4.2D array concept<br>
+5.Addition of 2D Matrix<br>
+6.Multiplication of Matrix<br>
+7.Transpose an array<br>
+8.Rotate an array by clockwise 90 degree<br>
+9.Rotate an array by anti-clockwise 90 degree<br>
+10.Pascal Triangle<br>
 </p>
