@@ -68,3 +68,21 @@ Solved Problems:<br>
 9.Rotate an array by anti-clockwise 90 degree<br>
 10.Pascal Triangle<br>
 </p>
+<br>
+<P>
+Day5:<br>
+Solved Problems:<br>
+1.Spiral Matrix<br>
+2.Spiral Matrix Generate using No<br>
+3.Sum of matrix by dimensions using brute force approch<br>
+4.Sum of matrix by dimensions using Prefix sum approch<br>
+5.Sum of matrix by dimensions using Prefix sum over rows and columns both<br>
+<br>
+<p>
+Day6 to Now:<br>
+Solved Problems:<br>
+1.Array based Problems<br>
+2.Matrix based Problems <br>
+3.String based Problems<br>
+4.ArrayList Problems<br>
+5.Recursion based Problems<br>
